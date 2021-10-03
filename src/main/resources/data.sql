@@ -1,0 +1,1 @@
+insert into deviceiot (id,devicename) values (1,'ABCD');
